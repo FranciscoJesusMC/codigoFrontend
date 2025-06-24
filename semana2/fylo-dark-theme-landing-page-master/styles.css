@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+/*
+font-family: "Open Sans", sans-serif;
+*/
+
+/* VARIABLES O CONSTANTES O CUSTOM PROPERTIES*/
+
+:root{ /*pseudo-class*/
+  --fondo: orange;
+
+  /*FOTNS*/
+  --font-primary: "Raleway", sans-serif;
+  --font-secundary: "Open Sans", sans=serif;
+  --font-size:14px;
+  --font-weight-regular:
+
+  /*COLORS*/
+}
+
+body{
+    font-family: "Open Sans", sans-serif;
+    background-color: coral;
+}
+
+.hidden{
+    display: none;
+}
+
+.header{
+    border: 1px solid red;
+
+    /*FLEXBOX*/
+    display: flex;
+}
